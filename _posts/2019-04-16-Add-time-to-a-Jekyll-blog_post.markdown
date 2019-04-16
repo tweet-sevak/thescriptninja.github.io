@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Add time to a Jekyll blog post"
+title: "How to: Add time to a Jekyll blog post"
 date: 2019-04-16 22:09:18 IST
 description: "Discovered this accidentally, and it is stupid easy"
 author: Parth Paradkar
