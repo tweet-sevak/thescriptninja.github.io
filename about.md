@@ -8,7 +8,6 @@ permalink: /about/
 
 Welcome to my blog, or as I like to think of it - my thought repo. Here you can find the footprints of the wanderings of my thoughts, useful stuff I have learnt and maybe some random rants about random things.
 
-***
 
 ## About Me
 
