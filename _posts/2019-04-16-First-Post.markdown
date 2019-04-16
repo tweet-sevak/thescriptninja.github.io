@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First Post!"
+title: "Hello World!"
 date: 2019-04-16 09:20:18 IST
-description: "Yaay!"
+description: "Finally"
 ---
 After a LOT of Google searches, deleted repositories and headaches born out of frustration, this blog is finally and thankfully up and running. Someone said `Jekyll` was easy. I want to give that person a piece of my mind now. 
 
