@@ -17,7 +17,7 @@ page.date | date: "%b %-d, %Y"
 ```
 
 I was soon lost in a myriad of unhelpful blog posts and documentation.
-Finally I gave up searching and relented to the trial-and-error method. I changed the output string with different variations after the % sign. I won't give each step here, but I finally found the solution.
+Finally I gave up searching and relented to the trial-and-error method. I changed the output string with different variations after the % sign. I won't give each step here, but I finally found the solution. It is so easy, I feel dumb.
 
 ```
 
