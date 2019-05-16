@@ -16,6 +16,8 @@ github_username:  thescriptninja
 facebook_username: parth.paradkar.35
 linkedin_username: parth-paradkar
 twitter_username: thescriptninja_
+disqus:
+  shortname: thescriptninja-github-io
 
 # Build settings
 markdown: kramdown
