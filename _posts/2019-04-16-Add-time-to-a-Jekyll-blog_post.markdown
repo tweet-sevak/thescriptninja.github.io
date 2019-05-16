@@ -4,6 +4,7 @@ title: "How to: Add time to a Jekyll blog post"
 date: 2019-04-16 22:09:18 IST
 description: "Discovered this accidentally, and it is stupid easy"
 author: Parth Paradkar
+fbcomments: yes
 ---
 
 While I was further customizing the layout of my blog and posts, I thought it would be nice to show the time at which the post was published. However, the `Minima` theme for `Jekyll` only displays the date of publishing for the post by default. 
