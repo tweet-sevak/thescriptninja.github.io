@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is my thought repo.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://thescriptninja.github.io" # the base hostname & protocol for your site
+domain: thescriptninja.github.io
 github_username:  thescriptninja
 facebook_username: parth.paradkar.35
 linkedin_username: parth-paradkar
