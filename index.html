@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-
+<style type='text/css'>
+.bordered {
+  border: 1px solid white;
+  list-style-position: inside;
+}
+</style>
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      <li class="bordered">
         <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
 
         <h2>
