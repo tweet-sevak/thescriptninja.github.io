@@ -22,7 +22,7 @@ $navbar-dark-color:#ffffff;
 $navbar-dark-hover-color:   #ffffff;
 
 $grey-color:       #fdfdfd;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: $grey-color;
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
