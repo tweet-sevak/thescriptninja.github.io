@@ -21,8 +21,8 @@ $brand-color:      #2a7ae2;
 $navbar-dark-color:#ffffff;
 $navbar-dark-hover-color:   #ffffff;
 
-$grey-color:       $background-color;
-$grey-color-light: lighten($grey-color, 25%);
+$grey-color:       #fdfdfd;
+$grey-color-light: darken($grey-color, 15%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
