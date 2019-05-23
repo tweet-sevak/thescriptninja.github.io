@@ -1,19 +1,23 @@
 ---
 layout: default
 ---
+
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
+  <ul class="w3-ul">
     {% for post in site.posts %}
-      <li class="bordered">
-        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" style="color:white; font-weight:bold" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <p style="color:grey; font-size:18px;">{{ post.description }}</p>
-        </h2>
+      <li class="post-bordered">
+				<a href="{{ post.url | prepend: site.baseurl }}"
+		      <div class="w3-container w3-hover-color-steel">
+		        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+		        <h2>
+		          <p class="post-link" style="color:white; font-weight:bold">{{ post.title }}</a>
+		          <p style="color:grey; font-size:18px;">{{ post.description }}</p>
+		        </h2>
+		      </div> 
+				</a> 
       </li>
     {% endfor %}
   </ul>
