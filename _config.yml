@@ -19,6 +19,8 @@ linkedin_username: parth-paradkar
 twitter_username: thescriptninja_
 disqus:
   shortname: thescriptninja-github-io
+plugins:
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
