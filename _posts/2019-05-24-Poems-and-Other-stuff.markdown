@@ -25,7 +25,6 @@ Performed this poem in Farrago 2019, the English spoken word event conducted by 
 
 
 My first attempt at a short story
-
 <blockquote class="embedly-card"><h4><a href="https://medium.com/@thescriptninja/debt-edc2c81dab54">Debt</a></h4><p>It was another long, scorching afternoon in the quiet countryside. The sun seemed to be intent on burning every patch of the parched earth. An occasional warm breeze wafted across the dried up land, as if taunting the beings that walked it about the coolness it once possessed.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
