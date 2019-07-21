@@ -2,7 +2,7 @@
 layout: post
 title: My experiences in programming - Year One
 date: 2019-07-21 11:28:18 IST
-description: 
+description: In hindsight (or something like that)
 author: Parth Paradkar
 fbcomments: yes
 ---
