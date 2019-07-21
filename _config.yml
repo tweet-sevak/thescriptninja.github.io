@@ -21,6 +21,7 @@ disqus:
   shortname: thescriptninja-github-io
 plugins:
   - jekyll-seo-tag
+  - jemoji
 
 # Build settings
 markdown: kramdown
