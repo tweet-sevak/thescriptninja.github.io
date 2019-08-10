@@ -13,20 +13,13 @@
         </svg>
       </a>
       <div>
-        <span>
-          <div class="social-media-list">
-            <li>
-               {% include icon-twitter.html username=site.twitter_username %}
-            </li>
-          </div>
-          <div class="trigger">
-            {% for my_page in site.pages %}
-              {% if my_page.title %}
-              <a class="page-link" style="font-weight:bold" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </span>
+        <div class="trigger">
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <a class="page-link" style="font-weight:bold" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
       </div>
     </nav>
 
