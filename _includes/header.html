@@ -19,9 +19,7 @@
             <a class="page-link" style="font-weight:bold" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
           {% endfor %}
-        </div>
-        <div class="trigger">
-          <a href="https://twitter.com/{{ include.username }}"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
+          <a class="page-link" href="https://twitter.com/{{ include.twitter_username }}"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
         </div>
       </div>
     </nav>
