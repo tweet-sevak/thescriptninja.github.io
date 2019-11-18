@@ -1,5 +1,5 @@
 # thescriptninja.github.io
-[Personal Website](www.thescriptninja.in)
+[Personal Website](http://thescriptninja.in)
 
 Created using the Minimalist theme for Jekyll
 
