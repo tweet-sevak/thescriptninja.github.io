@@ -28,4 +28,4 @@ On my wishlist currently are the following books:
 3. The Idiot by Dostoyevsy
 4. Fathers and Sons by Ivan Turgenev
 
-If you have any thoughts to share or would like to discuss literature, feel free to DM me, i would love to have a discussion.
+If you have any thoughts to share or would like to discuss literature, feel free to DM me, I would love to have a discussion.
